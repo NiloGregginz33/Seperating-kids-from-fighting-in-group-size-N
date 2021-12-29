@@ -1,5 +1,4 @@
 # Seperating kids from fighting
-Hey my name is Manav Naik and I'm a problem solver. For example, in high school I used to work at a swim academy and I taught kids how to swim. 
 
 Now this wasn't a problem in itself, except for the fact that I had 2 kids in the same class that used to fight like every day.
 Each kid would enter the class in a neutral state.
